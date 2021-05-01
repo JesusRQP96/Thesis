@@ -7,7 +7,6 @@ de los retornos de las acciones de los principales bancos de lationamerica. Todo
 detras de estas .
 
 # Backtest
-Principales resultados
 ![alt text](https://github.com/JesusRQP96/Thesis/blob/main/backtest_dcc_newfinal.jpeg)
 
 
